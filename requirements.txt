@@ -1,0 +1,5 @@
+﻿Package              Version
+-------------------- --------
+pandas               2.2.3
+numpy                1.25.2
+streamlit            1.40.1
